@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,KACE,WAAY,CACb,OAGC,gBAAiB,CACjB,WAAY,CACb,OAGC,iBAAkB","file":"main.3dd4ac80.chunk.css","sourcesContent":["// styles go here\n.btn {\n  margin: 15px;\n}\n\n.block {\n  margin: 10px auto;\n  width: 400px;\n}\n\n.title {\n  text-align: center;\n}\n"]}
